@@ -5,5 +5,7 @@ In this project, data was gathered from kaggle to help gain an insight into life
 
 ### Questions
 -What factors have the most influence on Life Expectancy?
+
 -Can we predict how long a person will live on average?
+
 -How does obesity relate to life expectancy?
