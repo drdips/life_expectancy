@@ -8,7 +8,7 @@ In this project, data was gathered from kaggle to help gain an insight into life
 ### Questions
 - What factors have the most influence on Life Expectancy?
 - Can we predict how long a person will live on average?
-- How does obesity relate to life expectancy?
+- How does obesity relate to life expectancy?  
 
 ### Process
 1) See **data_cleaning_engineering.ipynb**: This file contains the seperate data files obtained through Kaggle. The data was sorted through, analyzed, cleaned and concatted into one.
