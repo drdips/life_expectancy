@@ -30,3 +30,5 @@ Through data analysis, factors such as Schooling, Obesity, Alcohol Consumption, 
   * Schools should be made more accessible and more prevalent.
   * Countries who have a lower life expectancy should increase their healthcare expenditure in order to improve its average lifespan.
   * Governments should allocate more budget into physical and mental health to help increase life expectancy and quality of life.
+  
+  
