@@ -1,5 +1,5 @@
 # Can we predict life expectancy?
- 
+  
 ### Introduction
 In this project, data was gathered from kaggle to help gain an insight into life expectancy. There are many factors that can effect the length of a person's life. This information will hopefully help guide policymakers to make changes to help increase the life expectancy of their people.
 
