@@ -22,7 +22,7 @@ In this project, data was gathered from kaggle to help gain an insight into life
   * Seaborn
   * Plotly
   * Pandas
-  * SkLearn
+  * SkLearn 
   * Statsmodels
 
 ## Findings
