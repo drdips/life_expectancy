@@ -4,7 +4,7 @@
 In this project, data was gathered from kaggle to help gain an insight into life expectancy. There are many factors that can effect the length of a person's life. This information will hopefully help guide policymakers to make changes to help increase the life expectancy of their people.
 
 ![Image](/graphs/world_graph.png)
-
+ 
 ### Questions
 - What factors have the most influence on Life Expectancy?
 - Can we predict how long a person will live on average?
